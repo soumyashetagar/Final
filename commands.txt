@@ -1,0 +1,5 @@
+$ git commit
+$ git log
+$ git status
+$ git add .
+$ git branch
