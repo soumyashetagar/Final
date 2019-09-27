@@ -1,0 +1,5 @@
+$ git branch -d [branchname]
+$ git rm [filename]
+$ git checkout [branchname]
+$ git show [commit]
+$ git reset [filename]
