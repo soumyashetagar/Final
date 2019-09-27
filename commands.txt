@@ -1,4 +1,10 @@
 
+$git conifg --global user.name [name]
+$git config --global user.email [email]
+$git clone [url]
+$git reset[file]
+$git show[commit]
+
 $ git branch -d [branchname]
 $ git rm [filename]
 $ git checkout [branchname]
