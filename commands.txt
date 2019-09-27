@@ -1,0 +1,13 @@
+
+$ git branch -d [branchname]
+$ git rm [filename]
+$ git checkout [branchname]
+$ git show [commit]
+$ git reset [filename]
+
+$ git commit
+$ git log
+$ git status
+$ git add .
+$ git branch
+
